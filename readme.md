@@ -1,4 +1,4 @@
-This is a simple node js file server app.
+This is a very simple node js file server app.
 
 To use the app
 -Download the folder   
