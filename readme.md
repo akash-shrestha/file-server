@@ -3,7 +3,6 @@ This is a very simple node js file server app.
 The app is in its basic version and I will adding more remaining features whenever I can manage time
 
 To use the app
--Download the folder   
 -Run 'npm install'  
 -Run 'npm start'  
 -Visit 'http://localhost:4000/'  
